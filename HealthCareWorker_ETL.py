@@ -1,9 +1,9 @@
 import pandas as pd
 import numpy as np
 
-file_input = '~/healthCareWorkers.csv'
+file_input = 'covidPlayground\Datasets\healthCareWorkers.csv'
 
-file_pre_processed = '~/Pre_Processed_Data.csv'
+file_pre_processed = 'covidPlayground\Datasets\Pre_Processed_Data.csv'
 
 df_input = pd.read_csv(file_input, header = 0)
 
@@ -13,7 +13,7 @@ data_Filter = pd.DataFrame(df_input.filter(["Variable", "Country", "Value"]))
 
 #print(data_Filter)
 
-data_ValueSum = pd.DataFrame(data_Filter.groupby(["Variable", "Country"]).sum().reset_index())
+data_ValueSum = pd.DataFrame(data_Filter.groupby(["Variable", "Country"]).mean().reset_index())
 print(data_ValueSum)
 
 
