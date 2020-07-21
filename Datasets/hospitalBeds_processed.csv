@@ -1,0 +1,286 @@
+Variable,Country,Value
+Beds in for-profit privately owned hospitals,Australia,17477.0
+Beds in for-profit privately owned hospitals,Austria,8873.0
+Beds in for-profit privately owned hospitals,Canada,675.0
+Beds in for-profit privately owned hospitals,Chile,10516.0
+Beds in for-profit privately owned hospitals,Czech Republic,10528.0
+Beds in for-profit privately owned hospitals,Denmark,533.0
+Beds in for-profit privately owned hospitals,Estonia,876.0
+Beds in for-profit privately owned hospitals,Finland,1475.79
+Beds in for-profit privately owned hospitals,France,98545.0
+Beds in for-profit privately owned hospitals,Germany,201425.0
+Beds in for-profit privately owned hospitals,Greece,15264.0
+Beds in for-profit privately owned hospitals,Hungary,201.0
+Beds in for-profit privately owned hospitals,Iceland,0.0
+Beds in for-profit privately owned hospitals,Israel,3441.0
+Beds in for-profit privately owned hospitals,Italy,66497.0
+Beds in for-profit privately owned hospitals,Korea,0.0
+Beds in for-profit privately owned hospitals,Latvia,1120.0
+Beds in for-profit privately owned hospitals,Lithuania,241.0
+Beds in for-profit privately owned hospitals,Mexico,44395.0
+Beds in for-profit privately owned hospitals,New Zealand,1535.0
+Beds in for-profit privately owned hospitals,Poland,67732.0
+Beds in for-profit privately owned hospitals,Portugal,3883.0
+Beds in for-profit privately owned hospitals,Slovenia,102.0
+Beds in for-profit privately owned hospitals,Spain,30075.0
+Beds in for-profit privately owned hospitals,Turkey,53553.0
+Beds in for-profit privately owned hospitals,United States,152526.0
+Beds in not-for-profit privately owned hospitals,Australia,13552.0
+Beds in not-for-profit privately owned hospitals,Austria,11565.0
+Beds in not-for-profit privately owned hospitals,Belgium,48649.0
+Beds in not-for-profit privately owned hospitals,Czech Republic,465.0
+Beds in not-for-profit privately owned hospitals,Denmark,655.0
+Beds in not-for-profit privately owned hospitals,Estonia,508.0
+Beds in not-for-profit privately owned hospitals,France,70479.0
+Beds in not-for-profit privately owned hospitals,Germany,231095.0
+Beds in not-for-profit privately owned hospitals,Greece,1607.0
+Beds in not-for-profit privately owned hospitals,Hungary,2205.0
+Beds in not-for-profit privately owned hospitals,Iceland,0.0
+Beds in not-for-profit privately owned hospitals,Israel,5249.0
+Beds in not-for-profit privately owned hospitals,Italy,7967.0
+Beds in not-for-profit privately owned hospitals,Korea,566707.0
+Beds in not-for-profit privately owned hospitals,Latvia,0.0
+Beds in not-for-profit privately owned hospitals,Lithuania,0.0
+Beds in not-for-profit privately owned hospitals,Netherlands,78140.0
+Beds in not-for-profit privately owned hospitals,New Zealand,508.0
+Beds in not-for-profit privately owned hospitals,Poland,0.0
+Beds in not-for-profit privately owned hospitals,Portugal,7222.0
+Beds in not-for-profit privately owned hospitals,Slovenia,0.0
+Beds in not-for-profit privately owned hospitals,Spain,22755.0
+Beds in not-for-profit privately owned hospitals,Turkey,0.0
+Beds in not-for-profit privately owned hospitals,United States,598382.0
+Beds in publicly owned hospitals,Australia,61797.0
+Beds in publicly owned hospitals,Austria,47549.0
+Beds in publicly owned hospitals,Belgium,24829.0
+Beds in publicly owned hospitals,Canada,97614.0
+Beds in publicly owned hospitals,Chile,34126.0
+Beds in publicly owned hospitals,Czech Republic,66412.0
+Beds in publicly owned hospitals,Denmark,22742.0
+Beds in publicly owned hospitals,Estonia,7372.0
+Beds in publicly owned hospitals,Finland,37736.8
+Beds in publicly owned hospitals,France,317782.0
+Beds in publicly owned hospitals,Germany,329102.0
+Beds in publicly owned hospitals,Greece,38115.0
+Beds in publicly owned hospitals,Hungary,77935.0
+Beds in publicly owned hospitals,Iceland,1283.0
+Beds in publicly owned hospitals,Israel,18010.0
+Beds in publicly owned hospitals,Italy,167594.0
+Beds in publicly owned hospitals,Japan,507117.0
+Beds in publicly owned hospitals,Korea,64385.0
+Beds in publicly owned hospitals,Latvia,20291.0
+Beds in publicly owned hospitals,Lithuania,30909.0
+Beds in publicly owned hospitals,Mexico,140409.0
+Beds in publicly owned hospitals,Netherlands,0.0
+Beds in publicly owned hospitals,New Zealand,11096.0
+Beds in publicly owned hospitals,Norway,17165.0
+Beds in publicly owned hospitals,Poland,204226.0
+Beds in publicly owned hospitals,Portugal,29700.0
+Beds in publicly owned hospitals,Slovenia,9391.0
+Beds in publicly owned hospitals,Spain,99789.0
+Beds in publicly owned hospitals,Turkey,172310.0
+Beds in publicly owned hospitals,United Kingdom,240144.0
+Beds in publicly owned hospitals,United States,260890.0
+Curative (acute) care beds,Austria,54869.0
+Curative (acute) care beds,Belgium,63510.0
+Curative (acute) care beds,Canada,106752.0
+Curative (acute) care beds,Chile,36523.0
+Curative (acute) care beds,Czech Republic,59300.0
+Curative (acute) care beds,Denmark,22887.0
+Curative (acute) care beds,Estonia,8381.0
+Curative (acute) care beds,Finland,20346.66
+Curative (acute) care beds,France,246817.0
+Curative (acute) care beds,Germany,559651.0
+Curative (acute) care beds,Greece,45729.0
+Curative (acute) care beds,Hungary,63227.0
+Curative (acute) care beds,Iceland,1043.0
+Curative (acute) care beds,Ireland,13297.0
+Curative (acute) care beds,Israel,19389.0
+Curative (acute) care beds,Italy,240123.0
+Curative (acute) care beds,Japan,1241909.0
+Curative (acute) care beds,Korea,369958.0
+Curative (acute) care beds,Latvia,14481.0
+Curative (acute) care beds,Lithuania,26683.0
+Curative (acute) care beds,Luxembourg,2301.0
+Curative (acute) care beds,Mexico,182007.0
+Curative (acute) care beds,Netherlands,61173.0
+Curative (acute) care beds,New Zealand,12905.0
+Curative (acute) care beds,Norway,21218.0
+Curative (acute) care beds,Poland,197080.0
+Curative (acute) care beds,Portugal,37681.0
+Curative (acute) care beds,Slovak Republic,34510.0
+Curative (acute) care beds,Slovenia,10393.0
+Curative (acute) care beds,Spain,117607.0
+Curative (acute) care beds,Sweden,27531.0
+Curative (acute) care beds,Switzerland,38128.0
+Curative (acute) care beds,Turkey,223386.0
+Curative (acute) care beds,United Kingdom,139647.0
+Curative (acute) care beds,United States,860100.0
+Long-term care beds,Austria,5877.0
+Long-term care beds,Belgium,2085.0
+Long-term care beds,Canada,21238.0
+Long-term care beds,Chile,254.0
+Long-term care beds,Czech Republic,20742.0
+Long-term care beds,Denmark,250.0
+Long-term care beds,Estonia,1739.0
+Long-term care beds,Finland,18150.06
+Long-term care beds,France,84532.0
+Long-term care beds,Germany,0.0
+Long-term care beds,Greece,6570.0
+Long-term care beds,Hungary,12196.0
+Long-term care beds,Iceland,176.0
+Long-term care beds,Ireland,7262.0
+Long-term care beds,Israel,5581.0
+Long-term care beds,Italy,11164.0
+Long-term care beds,Japan,383911.0
+Long-term care beds,Korea,259730.0
+Long-term care beds,Latvia,1380.0
+Long-term care beds,Lithuania,3147.0
+Long-term care beds,Luxembourg,0.0
+Long-term care beds,Netherlands,7954.0
+Long-term care beds,New Zealand,132.0
+Long-term care beds,Norway,0.0
+Long-term care beds,Poland,15849.0
+Long-term care beds,Slovak Republic,7051.0
+Long-term care beds,Slovenia,302.0
+Long-term care beds,Spain,29301.0
+Long-term care beds,Sweden,3189.0
+Long-term care beds,Switzerland,1794.0
+Long-term care beds,United States,89329.0
+Other hospital beds,Austria,0.0
+Other hospital beds,Canada,622.0
+Other hospital beds,Chile,4898.0
+Other hospital beds,Czech Republic,3389.0
+Other hospital beds,Denmark,0.0
+Other hospital beds,Estonia,317.0
+Other hospital beds,Finland,221.9
+Other hospital beds,France,62818.0
+Other hospital beds,Germany,0.0
+Other hospital beds,Greece,10626.0
+Other hospital beds,Hungary,0.0
+Other hospital beds,Iceland,0.0
+Other hospital beds,Ireland,397.0
+Other hospital beds,Italy,0.0
+Other hospital beds,Japan,358153.0
+Other hospital beds,Korea,3742.0
+Other hospital beds,Latvia,4407.0
+Other hospital beds,Lithuania,0.0
+Other hospital beds,Luxembourg,501.0
+Other hospital beds,Netherlands,28232.0
+Other hospital beds,Norway,2933.0
+Other hospital beds,Poland,60089.0
+Other hospital beds,Portugal,960.0
+Other hospital beds,Slovak Republic,0.0
+Other hospital beds,Slovenia,152.0
+Other hospital beds,Spain,0.0
+Other hospital beds,Sweden,1045.0
+Other hospital beds,Switzerland,0.0
+Other hospital beds,Turkey,0.0
+Other hospital beds,United States,34633.0
+Psychiatric care beds,Australia,10186.0
+Psychiatric care beds,Austria,5352.0
+Psychiatric care beds,Belgium,16231.0
+Psychiatric care beds,Canada,13225.0
+Psychiatric care beds,Chile,2979.0
+Psychiatric care beds,Czech Republic,11693.0
+Psychiatric care beds,Denmark,4044.0
+Psychiatric care beds,Estonia,1083.0
+Psychiatric care beds,Finland,5331.45
+Psychiatric care beds,France,62818.0
+Psychiatric care beds,Germany,106176.0
+Psychiatric care beds,Greece,10626.0
+Psychiatric care beds,Hungary,10368.0
+Psychiatric care beds,Iceland,194.0
+Psychiatric care beds,Ireland,5369.0
+Psychiatric care beds,Israel,5619.0
+Psychiatric care beds,Italy,8441.0
+Psychiatric care beds,Japan,358153.0
+Psychiatric care beds,Korea,67298.0
+Psychiatric care beds,Latvia,4407.0
+Psychiatric care beds,Lithuania,4470.0
+Psychiatric care beds,Luxembourg,501.0
+Psychiatric care beds,Mexico,5020.0
+Psychiatric care beds,Netherlands,24793.0
+Psychiatric care beds,New Zealand,1452.0
+Psychiatric care beds,Norway,7168.0
+Psychiatric care beds,Poland,27299.0
+Psychiatric care beds,Portugal,7890.0
+Psychiatric care beds,Slovak Republic,5060.0
+Psychiatric care beds,Slovenia,1525.0
+Psychiatric care beds,Spain,20891.0
+Psychiatric care beds,Sweden,5565.0
+Psychiatric care beds,Switzerland,8588.0
+Psychiatric care beds,Turkey,4742.0
+Psychiatric care beds,United Kingdom,54117.0
+Psychiatric care beds,United States,87034.0
+Rehabilitative care beds,Austria,11053.0
+Rehabilitative care beds,Belgium,6331.0
+Rehabilitative care beds,Canada,4643.0
+Rehabilitative care beds,Czech Republic,4636.0
+Rehabilitative care beds,Denmark,377.0
+Rehabilitative care beds,Estonia,384.0
+Rehabilitative care beds,Finland,713.68
+Rehabilitative care beds,France,105725.0
+Rehabilitative care beds,Germany,189822.0
+Rehabilitative care beds,Greece,479.0
+Rehabilitative care beds,Hungary,16011.0
+Rehabilitative care beds,Iceland,85.0
+Rehabilitative care beds,Ireland,179.0
+Rehabilitative care beds,Israel,2394.0
+Rehabilitative care beds,Italy,25131.0
+Rehabilitative care beds,Korea,2548.0
+Rehabilitative care beds,Latvia,871.0
+Rehabilitative care beds,Lithuania,1717.0
+Rehabilitative care beds,Luxembourg,529.0
+Rehabilitative care beds,Netherlands,2022.0
+Rehabilitative care beds,Poland,66655.0
+Rehabilitative care beds,Portugal,588.0
+Rehabilitative care beds,Slovak Republic,1071.0
+Rehabilitative care beds,Slovenia,200.0
+Rehabilitative care beds,Spain,1843.0
+Rehabilitative care beds,Switzerland,7201.0
+Rehabilitative care beds,Turkey,2943.0
+Rehabilitative care beds,United States,16853.0
+Total hospital beds,Australia,92826.0
+Total hospital beds,Austria,65138.0
+Total hospital beds,Belgium,68903.0
+Total hospital beds,Brazil,490038.0
+Total hospital beds,Canada,115829.0
+Total hospital beds,Chile,41786.0
+Total hospital beds,China (People's Republic of),6120500.0
+Total hospital beds,Colombia,85021.0
+Total hospital beds,Costa Rica,5880.0
+Total hospital beds,Czech Republic,79985.0
+Total hospital beds,Denmark,23040.0
+Total hospital beds,Estonia,9828.0
+Total hospital beds,Finland,39027.03
+Total hospital beds,France,484279.0
+Total hospital beds,Germany,749473.0
+Total hospital beds,Greece,54704.0
+Total hospital beds,Hungary,83271.0
+Total hospital beds,Iceland,1283.0
+Total hospital beds,India,784940.0
+Total hospital beds,Indonesia,271902.0
+Total hospital beds,Ireland,23334.0
+Total hospital beds,Israel,26505.0
+Total hospital beds,Italy,268057.0
+Total hospital beds,Japan,1864008.0
+Total hospital beds,Korea,631092.0
+Total hospital beds,Latvia,20773.0
+Total hospital beds,Lithuania,30912.0
+Total hospital beds,Luxembourg,2929.0
+Total hospital beds,Mexico,182007.0
+Total hospital beds,Netherlands,78140.0
+Total hospital beds,New Zealand,13010.0
+Total hospital beds,Norway,24086.0
+Total hospital beds,Poland,255168.0
+Total hospital beds,Portugal,38165.0
+Total hospital beds,Russia,1671601.0
+Total hospital beds,Slovak Republic,42333.0
+Total hospital beds,Slovenia,10745.0
+Total hospital beds,South Africa,143755.0
+Total hospital beds,Spain,148081.0
+Total hospital beds,Sweden,31765.0
+Total hospital beds,Switzerland,45170.0
+Total hospital beds,Turkey,225863.0
+Total hospital beds,United Kingdom,240144.0
+Total hospital beds,United States,987440.0
